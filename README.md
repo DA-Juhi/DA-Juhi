@@ -26,9 +26,8 @@
 </table>
 
 
-
  ## Connect with Me
-
+<br>
 <p align="left">
   <a href="https://www.linkedin.com/in/juhiiishriwastav">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width="100" style="border-radius: 30%; padding: 10px;">
@@ -39,7 +38,7 @@
 
 
  ## Languages and Tools
-
+<br>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="55" style="border-radius: 50%; margin: 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="75" style="border-radius: 50%; margin: 15px;">
