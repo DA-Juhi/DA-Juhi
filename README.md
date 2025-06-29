@@ -1,4 +1,7 @@
-
+<p align="center">
+  <h1 align="center">Hello 👋, I'm Juhi</h1>
+  <h3 align="center">"Data Analyst turning rows into stories and stories into decisions."</h3>
+</p>
 
 <br>
 
@@ -6,15 +9,15 @@
 <tr>
 <td width="60%">
 
-- 🛠️ I’m currently working on **enhancing my analytics skills**.
-- 🌱 I’m currently learning **advanced analytics & visualization**.
-- 💬 Ask me about **Excel, SQL, Python, Power BI, Tableau**.
-- ✨ Fun fact: I see patterns in chaos (even in my coffee foam).
+- 🛠️ **Currently building deeper analytics skills** through hands-on projects.
+- 🌱 Exploring **advanced data visualization and storytelling**.
+- 💬 Comfortable with **Excel, SQL, Python, Power BI, Tableau** for solving data problems.
+- ✨ **Fun fact:** I see patterns everywhere (even in my coffee foam).
 
-**📫 Reach me:** juhiishriwastav@gmail.com
+- **📫 Reach me:** juhiishriwastav@gmail.com
 
 </td>
-<td width="40%" align="right">
+<td width="10%" align="right">
   <a href="https://www.linkedin.com/in/juhiiishriwastav">
     <img src="https://www.grazitti.com/wp-content/uploads/2020/02/Analytics_amp_Data_Science.gif" width="444" style="margin-top: 20px;">
   </a>
@@ -42,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" style="border-radius: 50%; margin: 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" style="border-radius: 50%; margin: 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" style="border-radius: 50%; margin: 15px;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh01Ktfx6Oqlz6Z32bfJtVsd8cqzlb7y3IDtp736fPWemMmfhjMDyoA2vQtX9q5inFw&usqp=CAU" width="60" style="border-radius: 50%; margin: 15px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh01Ktfx6Oqlz6Z32bfJtVsd8cqzlb7y3IDtp736fPWemMmfhjMDyoA2vQtX9q5inFw&usqp=CAU" width="90" style="border-radius: 50%; margin: 15px;">
 </p>
 
 <br>
